@@ -22,4 +22,10 @@
         android:text="New text"
         android:textAlignment="center"
         android:textSize="40dp" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:srcCompat="@tools:sample/avatars" />
 </LinearLayout>
